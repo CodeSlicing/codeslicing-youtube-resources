@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Kind</key>
+    <string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+    <key>Description</key>
+    <string>A SwiftUI view with power preview</string>
+    <key>Summary</key>
+    <string>SwiftUI View</string>
+    <key>SortOrder</key>
+    <string>1</string>
+    <key>AllowedTypes</key>
+    <array>
+        <string>public.swift-source</string>
+    </array>
+    <key>DefaultCompletionName</key>
+    <string>SwiftUIView</string>
+    <key>MainTemplateFile</key>
+    <string>___FILEBASENAME___.swift</string>
+    <key>Platforms</key>
+    <array>
+        <string>com.apple.platform.macosx</string>
+        <string>com.apple.platform.iphoneos</string>
+        <string>com.apple.platform.watchos</string>
+        <string>com.apple.platform.appletvos</string>
+    </array>
+</dict>
+</plist>
